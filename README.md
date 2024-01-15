@@ -51,6 +51,8 @@
 <br/>
 
 ## 🤝 Contact
-✉ fjzl12@naver.com
+[![naver](https://img.shields.io/badge/naver-00DD00.svg?&style=for-the-badge&logo=naver&logoColor=white)](fjzl12@naver.com)
+[![gmail](https://img.shields.io/badge/gmail-FF0000.svg?&style=for-the-badge&logo=gmail&logoColor=white)](kjk3323@gmail.com)
+
 
 </div>
