@@ -2,7 +2,7 @@
   
 ## 😀 Choi Dong Joo
 
-<img src="https://media1.tenor.com/m/wOlC5m7NikkAAAAd/%EC%A0%9C%EB%A6%AC%EC%9D%B8%EC%82%AC-%EC%A1%B4%EC%A4%91.gif" />
+<img src="https://media1.tenor.com/m/wOlC5m7NikkAAAAd/%EC%A0%9C%EB%A6%AC%EC%9D%B8%EC%82%AC-%EC%A1%B4%EC%A4%91.gif" width="40%" height="40%"/>
 
 <br/>
 
