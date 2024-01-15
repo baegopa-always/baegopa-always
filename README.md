@@ -17,11 +17,11 @@
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![python](https://img.shields.io/badge/python-FFD000.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![oracle](https://img.shields.io/badge/oracle-FF0000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-006688.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 <br/>
 ![javascript](https://img.shields.io/badge/javascript-FFCC33.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![opencv](https://img.shields.io/badge/opencv-0000FF.svg?&style=for-the-badge&logo=opencv&logoColor=white)
 ![nodedotjs](https://img.shields.io/badge/node.js-33CC66.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
-![mysql](https://img.shields.io/badge/mysql-006688.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 <br/>
 ![flask](https://img.shields.io/badge/flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white)
 ![html](https://img.shields.io/badge/html5-FF9933.svg?&style=for-the-badge&logo=html5&logoColor=owhite)
