@@ -13,7 +13,7 @@
 
 <br/>
 
-## 📄 Stack
+## 📄 Skills
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![python](https://img.shields.io/badge/python-FFD000.svg?&style=for-the-badge&logo=python&logoColor=white)
