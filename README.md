@@ -16,25 +16,25 @@
 ## 📄 Stack
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![intellij idea](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
-![python](https://img.shields.io/badge/python-555555.svg?&style=for-the-badge&logo=python&logoColor=white)
+![intellij idea](https://img.shields.io/badge/intellij%20idea-FF0027.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
+![python](https://img.shields.io/badge/python-FFD000.svg?&style=for-the-badge&logo=python&logoColor=white)
 <br/>
-![opencv](https://img.shields.io/badge/opencv-FFFFFF.svg?&style=for-the-badge&logo=opencv&logoColor=white)
-![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
-![nodedotjs](https://img.shields.io/badge/node.js-000000.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
+![opencv](https://img.shields.io/badge/opencv-000000.svg?&style=for-the-badge&logo=opencv&logoColor=white)
+![pycharm](https://img.shields.io/badge/pycharm-00CC00.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
+![nodedotjs](https://img.shields.io/badge/node.js-33CC66.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 <br/>
-![html](https://img.shields.io/badge/html5-007ACC.svg?&style=for-the-badge&logo=html5&logoColor=owhite)
-![css](https://img.shields.io/badge/css3-007ACC.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![flask](https://img.shields.io/badge/flask-007ACC.svg?&style=for-the-badge&logo=flask&logoColor=white)
+![html](https://img.shields.io/badge/html5-FF9933.svg?&style=for-the-badge&logo=html5&logoColor=owhite)
+![css](https://img.shields.io/badge/css3-FFCCCC.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![flask](https://img.shields.io/badge/flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white)
 
 <br/>
 
 ## ⚙ Tools
 ![github](https://img.shields.io/badge/github-000000.svg?&style=for-the-badge&logo=github&logoColor=white)
-![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
-![postman](https://img.shields.io/badge/postman-000000.svg?&style=for-the-badge&logo=postman&logoColor=white)
-![amazonaws](https://img.shields.io/badge/aws-000000.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
+![notion](https://img.shields.io/badge/notion-FFFFFF.svg?&style=for-the-badge&logo=notion&logoColor=black)
+![postman](https://img.shields.io/badge/postman-FF3300.svg?&style=for-the-badge&logo=postman&logoColor=white)
+![amazonaws](https://img.shields.io/badge/aws-FF9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <br/>
 
