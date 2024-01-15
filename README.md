@@ -1,5 +1,4 @@
-<div align="center">
-  
+
 ## 😀 Choi Dong Joo
 
 <img src="https://media1.tenor.com/m/wOlC5m7NikkAAAAd/%EC%A0%9C%EB%A6%AC%EC%9D%B8%EC%82%AC-%EC%A1%B4%EC%A4%91.gif" width="40%" height="40%"/>
@@ -56,4 +55,3 @@
 [![gmail](https://img.shields.io/badge/gmail-FF0000.svg?&style=for-the-badge&logo=gmail&logoColor=white)](kjk3323@gmail.com)
 
 
-</div>
