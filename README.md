@@ -3,7 +3,8 @@
 
 ### Education
 
-> Korea Aerospace University (2021.03 ~ 2024.02) <br>
+> Korea Aerospace Univ. (2021.03 ~ 2024.02)
+> 
 > Major : Department of Software (transfer)
 
 ### Skills
